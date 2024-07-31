@@ -5,9 +5,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        int total = Enumerable.Range(1, 10).Sum(); // Directly sum the range of numbers
+        int total = Enumerable.Range(1, 10).Sum(); // sum the range of numbers
 
-        // Output the result
+        // result
         Console.WriteLine($"The sum of numbers from 1 to 10 is: {total}");
  
 
